@@ -1,0 +1,1 @@
+[Hexagonal Architecture](https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code/)
